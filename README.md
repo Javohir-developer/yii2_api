@@ -1,1 +1,1 @@
-API modul для yii2  
+API model для yii2  
